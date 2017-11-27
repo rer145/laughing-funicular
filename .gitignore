@@ -1,0 +1,9 @@
+*
+
+# *.pdf
+!.gitignore
+!*.Rnw
+!children/
+
+children/*
+!*.Rnw
